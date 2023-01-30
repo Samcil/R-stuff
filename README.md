@@ -1,6 +1,6 @@
 # R-stuff
 ## A line I wrote on my local computer.  
-###This line is from R-Studio also.
+### This line is from R-Studio also.
 
   |Name|Telephone|Email|
   |----|---------|-----|
@@ -11,5 +11,5 @@
   ```
   
   The options are:
-    - Mortal kombat
-    - Tekken
+    1. Mortal kombat
+    2. Tekken
