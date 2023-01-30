@@ -12,4 +12,9 @@
   
   The options are
   1. Mortal kombat
-  2. Tekken
+  2. Tekken  
+  ```r
+        library(magittr)
+        library(dplyr)
+        data <- mtcars %>% filter(mtcars$mpg >5)
+  ```
