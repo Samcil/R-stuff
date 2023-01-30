@@ -10,6 +10,6 @@
       print("Hello World!")
   ```
   
-  The options are:
-    1. Mortal kombat
-    2. Tekken
+  The options are
+  1. Mortal kombat
+  2. Tekken
